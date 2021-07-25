@@ -1,0 +1,16 @@
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\SalarioExercicioListas\SalarioExercicioListas\bin\Debug\net5.0\SalarioExercicioListas.exe
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\SalarioExercicioListas\SalarioExercicioListas\bin\Debug\net5.0\SalarioExercicioListas.deps.json
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\SalarioExercicioListas\SalarioExercicioListas\bin\Debug\net5.0\SalarioExercicioListas.runtimeconfig.json
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\SalarioExercicioListas\SalarioExercicioListas\bin\Debug\net5.0\SalarioExercicioListas.runtimeconfig.dev.json
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\SalarioExercicioListas\SalarioExercicioListas\bin\Debug\net5.0\SalarioExercicioListas.dll
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\SalarioExercicioListas\SalarioExercicioListas\bin\Debug\net5.0\ref\SalarioExercicioListas.dll
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\SalarioExercicioListas\SalarioExercicioListas\bin\Debug\net5.0\SalarioExercicioListas.pdb
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\SalarioExercicioListas\SalarioExercicioListas\obj\Debug\net5.0\SalarioExercicioListas.csproj.AssemblyReference.cache
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\SalarioExercicioListas\SalarioExercicioListas\obj\Debug\net5.0\SalarioExercicioListas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\SalarioExercicioListas\SalarioExercicioListas\obj\Debug\net5.0\SalarioExercicioListas.AssemblyInfoInputs.cache
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\SalarioExercicioListas\SalarioExercicioListas\obj\Debug\net5.0\SalarioExercicioListas.AssemblyInfo.cs
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\SalarioExercicioListas\SalarioExercicioListas\obj\Debug\net5.0\SalarioExercicioListas.csproj.CoreCompileInputs.cache
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\SalarioExercicioListas\SalarioExercicioListas\obj\Debug\net5.0\SalarioExercicioListas.dll
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\SalarioExercicioListas\SalarioExercicioListas\obj\Debug\net5.0\ref\SalarioExercicioListas.dll
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\SalarioExercicioListas\SalarioExercicioListas\obj\Debug\net5.0\SalarioExercicioListas.pdb
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\SalarioExercicioListas\SalarioExercicioListas\obj\Debug\net5.0\SalarioExercicioListas.genruntimeconfig.cache

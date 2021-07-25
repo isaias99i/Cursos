@@ -1,0 +1,16 @@
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\Aulasss\Aulasss\bin\Debug\net5.0\Aulasss.exe
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\Aulasss\Aulasss\bin\Debug\net5.0\Aulasss.deps.json
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\Aulasss\Aulasss\bin\Debug\net5.0\Aulasss.runtimeconfig.json
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\Aulasss\Aulasss\bin\Debug\net5.0\Aulasss.runtimeconfig.dev.json
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\Aulasss\Aulasss\bin\Debug\net5.0\Aulasss.dll
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\Aulasss\Aulasss\bin\Debug\net5.0\ref\Aulasss.dll
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\Aulasss\Aulasss\bin\Debug\net5.0\Aulasss.pdb
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\Aulasss\Aulasss\obj\Debug\net5.0\Aulasss.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\Aulasss\Aulasss\obj\Debug\net5.0\Aulasss.AssemblyInfoInputs.cache
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\Aulasss\Aulasss\obj\Debug\net5.0\Aulasss.AssemblyInfo.cs
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\Aulasss\Aulasss\obj\Debug\net5.0\Aulasss.csproj.CoreCompileInputs.cache
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\Aulasss\Aulasss\obj\Debug\net5.0\Aulasss.dll
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\Aulasss\Aulasss\obj\Debug\net5.0\ref\Aulasss.dll
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\Aulasss\Aulasss\obj\Debug\net5.0\Aulasss.pdb
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\Aulasss\Aulasss\obj\Debug\net5.0\Aulasss.genruntimeconfig.cache
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\Aulasss\Aulasss\obj\Debug\net5.0\Aulasss.csproj.AssemblyReference.cache

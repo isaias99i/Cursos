@@ -1,0 +1,16 @@
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\Exercicio3_Poo\Exercicio3_Poo\bin\Debug\net5.0\Exercicio3_Poo.exe
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\Exercicio3_Poo\Exercicio3_Poo\bin\Debug\net5.0\Exercicio3_Poo.deps.json
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\Exercicio3_Poo\Exercicio3_Poo\bin\Debug\net5.0\Exercicio3_Poo.runtimeconfig.json
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\Exercicio3_Poo\Exercicio3_Poo\bin\Debug\net5.0\Exercicio3_Poo.runtimeconfig.dev.json
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\Exercicio3_Poo\Exercicio3_Poo\bin\Debug\net5.0\Exercicio3_Poo.dll
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\Exercicio3_Poo\Exercicio3_Poo\bin\Debug\net5.0\ref\Exercicio3_Poo.dll
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\Exercicio3_Poo\Exercicio3_Poo\bin\Debug\net5.0\Exercicio3_Poo.pdb
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\Exercicio3_Poo\Exercicio3_Poo\obj\Debug\net5.0\Exercicio3_Poo.csproj.AssemblyReference.cache
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\Exercicio3_Poo\Exercicio3_Poo\obj\Debug\net5.0\Exercicio3_Poo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\Exercicio3_Poo\Exercicio3_Poo\obj\Debug\net5.0\Exercicio3_Poo.AssemblyInfoInputs.cache
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\Exercicio3_Poo\Exercicio3_Poo\obj\Debug\net5.0\Exercicio3_Poo.AssemblyInfo.cs
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\Exercicio3_Poo\Exercicio3_Poo\obj\Debug\net5.0\Exercicio3_Poo.csproj.CoreCompileInputs.cache
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\Exercicio3_Poo\Exercicio3_Poo\obj\Debug\net5.0\Exercicio3_Poo.dll
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\Exercicio3_Poo\Exercicio3_Poo\obj\Debug\net5.0\ref\Exercicio3_Poo.dll
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\Exercicio3_Poo\Exercicio3_Poo\obj\Debug\net5.0\Exercicio3_Poo.pdb
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\Exercicio3_Poo\Exercicio3_Poo\obj\Debug\net5.0\Exercicio3_Poo.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\QuartosExercicioVetor\QuartosExercicioVetor\bin\Debug\net5.0\QuartosExercicioVetor.exe
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\QuartosExercicioVetor\QuartosExercicioVetor\bin\Debug\net5.0\QuartosExercicioVetor.deps.json
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\QuartosExercicioVetor\QuartosExercicioVetor\bin\Debug\net5.0\QuartosExercicioVetor.runtimeconfig.json
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\QuartosExercicioVetor\QuartosExercicioVetor\bin\Debug\net5.0\QuartosExercicioVetor.runtimeconfig.dev.json
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\QuartosExercicioVetor\QuartosExercicioVetor\bin\Debug\net5.0\QuartosExercicioVetor.dll
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\QuartosExercicioVetor\QuartosExercicioVetor\bin\Debug\net5.0\ref\QuartosExercicioVetor.dll
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\QuartosExercicioVetor\QuartosExercicioVetor\bin\Debug\net5.0\QuartosExercicioVetor.pdb
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\QuartosExercicioVetor\QuartosExercicioVetor\obj\Debug\net5.0\QuartosExercicioVetor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\QuartosExercicioVetor\QuartosExercicioVetor\obj\Debug\net5.0\QuartosExercicioVetor.AssemblyInfoInputs.cache
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\QuartosExercicioVetor\QuartosExercicioVetor\obj\Debug\net5.0\QuartosExercicioVetor.AssemblyInfo.cs
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\QuartosExercicioVetor\QuartosExercicioVetor\obj\Debug\net5.0\QuartosExercicioVetor.csproj.CoreCompileInputs.cache
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\QuartosExercicioVetor\QuartosExercicioVetor\obj\Debug\net5.0\QuartosExercicioVetor.dll
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\QuartosExercicioVetor\QuartosExercicioVetor\obj\Debug\net5.0\ref\QuartosExercicioVetor.dll
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\QuartosExercicioVetor\QuartosExercicioVetor\obj\Debug\net5.0\QuartosExercicioVetor.pdb
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\QuartosExercicioVetor\QuartosExercicioVetor\obj\Debug\net5.0\QuartosExercicioVetor.genruntimeconfig.cache
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\QuartosExercicioVetor\QuartosExercicioVetor\obj\Debug\net5.0\QuartosExercicioVetor.csproj.AssemblyReference.cache

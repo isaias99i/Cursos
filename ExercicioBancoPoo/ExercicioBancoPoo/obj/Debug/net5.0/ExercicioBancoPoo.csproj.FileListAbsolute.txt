@@ -1,0 +1,16 @@
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\ExercicioBancoPoo\ExercicioBancoPoo\bin\Debug\net5.0\ExercicioBancoPoo.exe
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\ExercicioBancoPoo\ExercicioBancoPoo\bin\Debug\net5.0\ExercicioBancoPoo.deps.json
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\ExercicioBancoPoo\ExercicioBancoPoo\bin\Debug\net5.0\ExercicioBancoPoo.runtimeconfig.json
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\ExercicioBancoPoo\ExercicioBancoPoo\bin\Debug\net5.0\ExercicioBancoPoo.runtimeconfig.dev.json
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\ExercicioBancoPoo\ExercicioBancoPoo\bin\Debug\net5.0\ExercicioBancoPoo.dll
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\ExercicioBancoPoo\ExercicioBancoPoo\bin\Debug\net5.0\ref\ExercicioBancoPoo.dll
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\ExercicioBancoPoo\ExercicioBancoPoo\bin\Debug\net5.0\ExercicioBancoPoo.pdb
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\ExercicioBancoPoo\ExercicioBancoPoo\obj\Debug\net5.0\ExercicioBancoPoo.csproj.AssemblyReference.cache
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\ExercicioBancoPoo\ExercicioBancoPoo\obj\Debug\net5.0\ExercicioBancoPoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\ExercicioBancoPoo\ExercicioBancoPoo\obj\Debug\net5.0\ExercicioBancoPoo.AssemblyInfoInputs.cache
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\ExercicioBancoPoo\ExercicioBancoPoo\obj\Debug\net5.0\ExercicioBancoPoo.AssemblyInfo.cs
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\ExercicioBancoPoo\ExercicioBancoPoo\obj\Debug\net5.0\ExercicioBancoPoo.csproj.CoreCompileInputs.cache
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\ExercicioBancoPoo\ExercicioBancoPoo\obj\Debug\net5.0\ExercicioBancoPoo.dll
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\ExercicioBancoPoo\ExercicioBancoPoo\obj\Debug\net5.0\ref\ExercicioBancoPoo.dll
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\ExercicioBancoPoo\ExercicioBancoPoo\obj\Debug\net5.0\ExercicioBancoPoo.pdb
+C:\Users\isaia\OneDrive\Documents\Aulas VSC\ExercicioBancoPoo\ExercicioBancoPoo\obj\Debug\net5.0\ExercicioBancoPoo.genruntimeconfig.cache
