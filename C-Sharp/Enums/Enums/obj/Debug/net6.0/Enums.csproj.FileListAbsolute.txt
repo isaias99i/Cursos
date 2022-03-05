@@ -1,0 +1,15 @@
+D:\OneDrive - gmlschools.gmlschools\Udemy\C_Sharp\Enums\Enums\obj\Debug\net6.0\Enums.csproj.AssemblyReference.cache
+D:\OneDrive - gmlschools.gmlschools\Udemy\C_Sharp\Enums\Enums\obj\Debug\net6.0\Enums.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - gmlschools.gmlschools\Udemy\C_Sharp\Enums\Enums\obj\Debug\net6.0\Enums.AssemblyInfoInputs.cache
+D:\OneDrive - gmlschools.gmlschools\Udemy\C_Sharp\Enums\Enums\obj\Debug\net6.0\Enums.AssemblyInfo.cs
+D:\OneDrive - gmlschools.gmlschools\Udemy\C_Sharp\Enums\Enums\obj\Debug\net6.0\Enums.csproj.CoreCompileInputs.cache
+D:\OneDrive - gmlschools.gmlschools\Udemy\C_Sharp\Enums\Enums\bin\Debug\net6.0\Enums.exe
+D:\OneDrive - gmlschools.gmlschools\Udemy\C_Sharp\Enums\Enums\bin\Debug\net6.0\Enums.deps.json
+D:\OneDrive - gmlschools.gmlschools\Udemy\C_Sharp\Enums\Enums\bin\Debug\net6.0\Enums.runtimeconfig.json
+D:\OneDrive - gmlschools.gmlschools\Udemy\C_Sharp\Enums\Enums\bin\Debug\net6.0\Enums.dll
+D:\OneDrive - gmlschools.gmlschools\Udemy\C_Sharp\Enums\Enums\bin\Debug\net6.0\ref\Enums.dll
+D:\OneDrive - gmlschools.gmlschools\Udemy\C_Sharp\Enums\Enums\bin\Debug\net6.0\Enums.pdb
+D:\OneDrive - gmlschools.gmlschools\Udemy\C_Sharp\Enums\Enums\obj\Debug\net6.0\Enums.dll
+D:\OneDrive - gmlschools.gmlschools\Udemy\C_Sharp\Enums\Enums\obj\Debug\net6.0\ref\Enums.dll
+D:\OneDrive - gmlschools.gmlschools\Udemy\C_Sharp\Enums\Enums\obj\Debug\net6.0\Enums.pdb
+D:\OneDrive - gmlschools.gmlschools\Udemy\C_Sharp\Enums\Enums\obj\Debug\net6.0\Enums.genruntimeconfig.cache

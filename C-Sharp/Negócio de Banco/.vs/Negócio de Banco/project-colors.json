@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "42dae56c-bb79-4000-8610-09290a950464": {
+      "ProjectGuid": "42dae56c-bb79-4000-8610-09290a950464",
+      "DisplayName": "Negócio de Banco",
+      "ColorIndex": 0
+    }
+  },
+  "NextColorIndex": 1
+}

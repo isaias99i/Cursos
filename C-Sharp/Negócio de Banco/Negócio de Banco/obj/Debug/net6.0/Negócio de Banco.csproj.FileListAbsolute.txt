@@ -1,0 +1,15 @@
+D:\OneDrive - gmlschools.gmlschools\Udemy\C_Sharp\Negócio de Banco\Negócio de Banco\obj\Debug\net6.0\Negócio de Banco.csproj.AssemblyReference.cache
+D:\OneDrive - gmlschools.gmlschools\Udemy\C_Sharp\Negócio de Banco\Negócio de Banco\obj\Debug\net6.0\Negócio de Banco.GeneratedMSBuildEditorConfig.editorconfig
+D:\OneDrive - gmlschools.gmlschools\Udemy\C_Sharp\Negócio de Banco\Negócio de Banco\obj\Debug\net6.0\Negócio de Banco.AssemblyInfoInputs.cache
+D:\OneDrive - gmlschools.gmlschools\Udemy\C_Sharp\Negócio de Banco\Negócio de Banco\obj\Debug\net6.0\Negócio de Banco.AssemblyInfo.cs
+D:\OneDrive - gmlschools.gmlschools\Udemy\C_Sharp\Negócio de Banco\Negócio de Banco\obj\Debug\net6.0\Negócio de Banco.csproj.CoreCompileInputs.cache
+D:\OneDrive - gmlschools.gmlschools\Udemy\C_Sharp\Negócio de Banco\Negócio de Banco\bin\Debug\net6.0\Negócio de Banco.exe
+D:\OneDrive - gmlschools.gmlschools\Udemy\C_Sharp\Negócio de Banco\Negócio de Banco\bin\Debug\net6.0\Negócio de Banco.deps.json
+D:\OneDrive - gmlschools.gmlschools\Udemy\C_Sharp\Negócio de Banco\Negócio de Banco\bin\Debug\net6.0\Negócio de Banco.runtimeconfig.json
+D:\OneDrive - gmlschools.gmlschools\Udemy\C_Sharp\Negócio de Banco\Negócio de Banco\bin\Debug\net6.0\Negócio de Banco.dll
+D:\OneDrive - gmlschools.gmlschools\Udemy\C_Sharp\Negócio de Banco\Negócio de Banco\bin\Debug\net6.0\ref\Negócio de Banco.dll
+D:\OneDrive - gmlschools.gmlschools\Udemy\C_Sharp\Negócio de Banco\Negócio de Banco\bin\Debug\net6.0\Negócio de Banco.pdb
+D:\OneDrive - gmlschools.gmlschools\Udemy\C_Sharp\Negócio de Banco\Negócio de Banco\obj\Debug\net6.0\Negócio de Banco.dll
+D:\OneDrive - gmlschools.gmlschools\Udemy\C_Sharp\Negócio de Banco\Negócio de Banco\obj\Debug\net6.0\ref\Negócio de Banco.dll
+D:\OneDrive - gmlschools.gmlschools\Udemy\C_Sharp\Negócio de Banco\Negócio de Banco\obj\Debug\net6.0\Negócio de Banco.pdb
+D:\OneDrive - gmlschools.gmlschools\Udemy\C_Sharp\Negócio de Banco\Negócio de Banco\obj\Debug\net6.0\Negócio de Banco.genruntimeconfig.cache
