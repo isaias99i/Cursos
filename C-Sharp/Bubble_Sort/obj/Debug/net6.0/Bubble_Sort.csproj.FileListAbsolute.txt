@@ -1,0 +1,15 @@
+D:\Cursos\C-Sharp\Bubble_Sort\bin\Debug\net6.0\Bubble_Sort.exe
+D:\Cursos\C-Sharp\Bubble_Sort\bin\Debug\net6.0\Bubble_Sort.deps.json
+D:\Cursos\C-Sharp\Bubble_Sort\bin\Debug\net6.0\Bubble_Sort.runtimeconfig.json
+D:\Cursos\C-Sharp\Bubble_Sort\bin\Debug\net6.0\Bubble_Sort.dll
+D:\Cursos\C-Sharp\Bubble_Sort\bin\Debug\net6.0\Bubble_Sort.pdb
+D:\Cursos\C-Sharp\Bubble_Sort\obj\Debug\net6.0\Bubble_Sort.csproj.AssemblyReference.cache
+D:\Cursos\C-Sharp\Bubble_Sort\obj\Debug\net6.0\Bubble_Sort.GeneratedMSBuildEditorConfig.editorconfig
+D:\Cursos\C-Sharp\Bubble_Sort\obj\Debug\net6.0\Bubble_Sort.AssemblyInfoInputs.cache
+D:\Cursos\C-Sharp\Bubble_Sort\obj\Debug\net6.0\Bubble_Sort.AssemblyInfo.cs
+D:\Cursos\C-Sharp\Bubble_Sort\obj\Debug\net6.0\Bubble_Sort.csproj.CoreCompileInputs.cache
+D:\Cursos\C-Sharp\Bubble_Sort\obj\Debug\net6.0\Bubble_Sort.dll
+D:\Cursos\C-Sharp\Bubble_Sort\obj\Debug\net6.0\refint\Bubble_Sort.dll
+D:\Cursos\C-Sharp\Bubble_Sort\obj\Debug\net6.0\Bubble_Sort.pdb
+D:\Cursos\C-Sharp\Bubble_Sort\obj\Debug\net6.0\Bubble_Sort.genruntimeconfig.cache
+D:\Cursos\C-Sharp\Bubble_Sort\obj\Debug\net6.0\ref\Bubble_Sort.dll
